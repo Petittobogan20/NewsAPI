@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  NewsAPI
 //
-//  Created by Manise Mutake on 11/19/22.
-//
+//Hello
 
 import UIKit
 
